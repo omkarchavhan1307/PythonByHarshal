@@ -1,4 +1,3 @@
-Hello OmkarHello KomalHello KomalHello KomalOmkar
-Komal
-Vikrant
-Nikhil
+Name :Omkar
+Age :22
+Marks :90

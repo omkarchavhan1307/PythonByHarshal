@@ -1,1 +1,10 @@
-name = Omkar
+Name :Omkar
+Age :22
+Marks :90
+Name :Komal
+Age :22
+Marks :98
+Name :Komal
+Age :22
+Marks :98
+Python programming language
